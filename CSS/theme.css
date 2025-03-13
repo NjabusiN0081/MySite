@@ -35,7 +35,7 @@ color:rgb(121, 104, 161); font-family: Playfair;  font-weight: bold; font-size: 
 }
 
 *{
-    text-decoration: solid;
+    text-decoration: none;
  } 
 
  .navbar{
