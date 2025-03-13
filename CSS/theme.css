@@ -1,0 +1,66 @@
+.main_heading {
+color: rgb(126, 0, 199); 
+font-family: Verdana; 
+font-style:italic;
+font-size: 70px
+}
+
+
+
+.body_font {
+background-color: rgb(220, 201, 214);
+color: rgb(151, 97, 158); 
+font-family: Playfair; 
+font-size: 20px 
+}
+
+.heading {
+    color: blueviolet;
+    background-color: azure;
+    font-weight: lighter;
+}
+
+.sub_heading {   
+color:rgb(121, 104, 161); font-family: Playfair;  font-weight: bold; font-size: 55px;
+}
+
+
+.line {
+    background-color: rgb(244, 242, 246);
+    font-weight: 100;
+}
+
+.photos {
+    width: 1800; height: 200;
+}
+
+*{
+    text-decoration: solid;
+ } 
+
+ .navbar{
+    background-color: rgb(159, 40, 199); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-right: 15px; padding-left: 15px;
+ }
+
+ .navdiv {
+    display: flex; align-items: center; justify-content: space-between;
+ }
+
+ .logo {
+    font-size: 45px; font-weight: 600; color: rgb(200, 45, 175);
+ }
+
+ li{
+    list-style: disc; display: inline-block;
+ }
+
+ li a{ 
+    color: beige; font-size: 20px; font-weight: bold; margin-right: 25px;
+ }
+ button{
+    background-color: rgb(105, 206, 234); margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+ }
+
+ button a{
+    color: azure; font-weight: bolder; font-size: 15px;
+ }
